@@ -22,7 +22,7 @@ Workload vs attrition
 Salary and promotion impact
 Tenure and satisfaction analysis
 
-** How to Run**
+**How to Run**
 git clone https://github.com/Roshini-1301/HR-analysis.git
 cd HR-analysis
 jupyter notebook
