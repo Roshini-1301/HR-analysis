@@ -5,26 +5,44 @@ This project analyzes employee attrition patterns using Python and HR data. The 
  HR analysis.ipynb
 
 **Dataset Summary**
+
+
 Records: 14,999 employees
+
+
 Features: Satisfaction level, projects, salary, department, promotions, tenure, attrition status
+
+
 Missing values: None
 
 **Tech Stack**
+
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 Jupyter Notebook
 
 **Key Focus Areas**
+
 Employee attrition trends
+
 Department-wise turnover
+
 Workload vs attrition
+
 Salary and promotion impact
+
 Tenure and satisfaction analysis
 
 **How to Run**
+
 git clone https://github.com/Roshini-1301/HR-analysis.git
+
 cd HR-analysis
+
 jupyter notebook
 
 
